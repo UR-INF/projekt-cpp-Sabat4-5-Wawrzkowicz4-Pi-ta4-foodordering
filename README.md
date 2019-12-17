@@ -2,9 +2,11 @@
  
  
 Informatyka IV, lab.2  
-Krzysztof Pięta 
-Damian Wawrzkowicz Andrzej Sabat 
-Cel projektu: 
+- Krzysztof Pięta 
+- Damian Wawrzkowicz
+- Andrzej Sabat 
+
+## Cel projektu: 
 Celem projektu jest stworzenie aplikacji do obsługi zamówień w małym lokalu gastronomicznym typu pizzeria. Uzytkownik może wybierać spośród dostępnych potraw, złożyć zamówienie oraz otrzymać paragon. 
  
 ## Założenia projektu: 
@@ -30,7 +32,7 @@ Przy uruchomieniu aplikacji poprzez plik wykonywalny .exe wymagane są dodatkowe
 ## Wymagane biblioteki: 
 -	Qt5Core.dll 
 -	Qt5Gui.dll 
--Qt5Guid.dll 
+- Qt5Guid.dll 
 -	Qt5Widgets.dll 
 -	libEGL.dll 
 -	libgcc_s_dw2-1.dll 
